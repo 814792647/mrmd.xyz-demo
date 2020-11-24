@@ -40,7 +40,7 @@ module.exports = {
         }]
       },
       {
-        test: /\.(png|jpe?g|mp4)(\?.*)?$/,
+        test: /\.(png|jpe?g|mp4|ttf)(\?.*)?$/,
         loader: 'url-loader',
         options: {
           esModule: false,
