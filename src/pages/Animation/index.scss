@@ -13,7 +13,7 @@
 }
 
 #controller1 > p{
-    font-family: Microsoft YaHei;
+    font-family: Microsoft YaHei,-apple-system;
     color: #1f1f1f;
     font-size: 130px;
     position: absolute;
@@ -36,8 +36,7 @@
 .square > p {
     font-size: 16px;
     width: 100%;
-    text-align: left;
     font-weight: bolder;
     color:#ffffff;
-    font-family: Microsoft YaHei;
+    font-family: Microsoft YaHei,-apple-system;
 }

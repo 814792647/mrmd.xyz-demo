@@ -55,7 +55,7 @@ const Index = (props: Props) => {
             <div className="square">
                 <p>My</p>
                 <p>WebSite</p>
-                <p>WeiBin.Chen</p>
+                <p style={{textAlign:"justify"}}>WeiBin.Chen</p>
             </div>
         </div>
     )
